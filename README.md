@@ -1,9 +1,9 @@
-### Hi there 👋
+### jesse bakker 
 
-- 🔭 Geospatial Developer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
-- 💬 Ask me about Antarctica and satellite imagery
-- 📫 Work email: bakke557@umn.edu
-- 😄 Pronouns: he/him
+- Geospatial Developer/Project Implementer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
+- interested in Antarctica and satellite imagery
+- work email: bakke557@umn.edu
+- ronouns: he/him
 
 <!--
 **bakkerbakker/bakkerbakker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
