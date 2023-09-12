@@ -1,9 +1,9 @@
 ### jesse bakker 
 
-- Geospatial Developer/Project Implementer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
+- geospatial developer/project implementer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
 - interested in Antarctica and satellite imagery
 - work email: bakke557@umn.edu
-- ronouns: he/him
+- pronouns: he/him
 
 <!--
 **bakkerbakker/bakkerbakker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
