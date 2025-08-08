@@ -1,8 +1,8 @@
 ### jesse bakker 
 
-- geospatial developer/project implementer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
+- formerly geospatial developer/project implementer at the [Polar Geospatial Center](https://github.com/PolarGeospatialCenter?q=&type=&language=&sort=)
 - interested in Antarctica and satellite imagery
-- work email: bakke557@umn.edu
+<!-- - work email: bakke557@umn.edu -->
 - pronouns: he/him
 
 <!--
